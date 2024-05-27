@@ -1,0 +1,50 @@
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista_e_grafo.Form1.resources
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.csproj.GenerateResource.cache
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.AssemblyInfoInputs.cache
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.AssemblyInfo.cs
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.csproj.CoreCompileInputs.cache
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.exe
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.deps.json
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.runtimeconfig.json
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.pdb
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\refint\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.pdb
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.genruntimeconfig.cache
+C:\Users\elmaachy.20090\Desktop\CrudPostale\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\ref\Lista e grafo.dll
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista_e_grafo.Form1.resources
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.csproj.GenerateResource.cache
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.AssemblyInfoInputs.cache
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.AssemblyInfo.cs
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.csproj.CoreCompileInputs.cache
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.dll
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\refint\Lista e grafo.dll
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.pdb
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.exe
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.deps.json
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.runtimeconfig.json
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.dll
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.pdb
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.genruntimeconfig.cache
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\ref\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.exe
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.deps.json
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.runtimeconfig.json
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\bin\Debug\net7.0-windows\Lista e grafo.pdb
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista_e_grafo.Form1.resources
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.csproj.GenerateResource.cache
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.AssemblyInfoInputs.cache
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.AssemblyInfo.cs
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.csproj.CoreCompileInputs.cache
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\refint\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.pdb
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista e grafo.genruntimeconfig.cache
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\ref\Lista e grafo.dll
+C:\Users\elmaachy.20090\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista_e_grafo.Properties.Resources.resources
+C:\Users\wildj\Desktop\Lista e grafo\Lista e grafo\obj\Debug\net7.0-windows\Lista_e_grafo.Properties.Resources.resources
